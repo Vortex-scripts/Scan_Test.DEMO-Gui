@@ -1,3 +1,3 @@
-Execute this into your executor:
+--Execute this into your executor:
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Vortex-scripts/Scan_Test.Demo-GUI/main/source',true))()
